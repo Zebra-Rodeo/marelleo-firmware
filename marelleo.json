@@ -1,7 +1,7 @@
 {
-  "version": "0.6.3",
+  "version": "0.6.4",
   "url": "https://marelleo.zebra.rodeo/firmware.bin",
-  "taille": 2666000,
-  "md5": "4395888d968e1b34ef89876ad893a5c6",
-  "notes": "une figurine peut porter une radio en direct"
+  "taille": 2665888,
+  "md5": "217fc7560d98e61e0115a97fb6db000d",
+  "notes": "une figurine peut redevenir vide"
 }
