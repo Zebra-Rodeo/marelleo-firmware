@@ -1,7 +1,7 @@
 {
-  "version": "0.6.1",
+  "version": "0.6.2",
   "url": "https://marelleo.zebra.rodeo/firmware.bin",
   "taille": 2663840,
-  "md5": "8b0968363c931aae672c38ee7f4ea297",
-  "notes": "figurine radio et mise a jour par le wifi"
+  "md5": "9a2a932c6bae0bc1c781f1db7fca5e14",
+  "notes": "essai de gravure par le reseau"
 }
