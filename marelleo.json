@@ -1,7 +1,7 @@
 {
   "version": "0.6.1",
   "url": "https://marelleo.zebra.rodeo/firmware.bin",
-  "taille": 2666128,
-  "md5": "e06c9f5a98df57f9db64b66ed44bee6a",
-  "notes": "repli sur la taille du manifeste quand l'hebergeur ne l'annonce pas"
+  "taille": 2663840,
+  "md5": "8b0968363c931aae672c38ee7f4ea297",
+  "notes": "figurine radio et mise a jour par le wifi"
 }
