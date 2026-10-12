@@ -1,8 +1,8 @@
 {
-  "version": "0.7.0",
+  "version": "0.7.1",
   "materiel": "prototype",
   "url": "https://marelleo.zebra.rodeo/firmware-proto.bin",
   "taille": 2373408,
-  "md5": "f1bc6039300c723818ba5ec74463e538",
-  "notes": "le portail de configuration remplace le bluetooth"
+  "md5": "db733f0c6ed1005a046c345a7b212fb7",
+  "notes": "le portail, et une boite configuree qui retrouve son reseau"
 }
