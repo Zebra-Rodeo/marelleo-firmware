@@ -8,9 +8,22 @@ Le code source vit ailleurs, dans un dépôt privé. Seul le binaire est publié
 pour que les boîtes n'aient aucun identifiant à porter : un objet qui va
 chercher son propre micrologiciel ne doit pas transporter de secret.
 
+## Deux matériels, deux manifestes
+
+| fichier | pour qui |
+|---|---|
+| `marelleo.json` et `firmware.bin` | **la carte imprimée**, le produit |
+| `marelleo-proto.json` et `firmware-proto.bin` | le prototype sur carte de développement |
+
+Leurs brochages, leur mémoire et leur taille de flash n'ont rien à voir. Une
+boîte qui avalerait l'image de l'autre en sortirait sourde, aveugle, ou morte,
+et la période d'essai ne la rattraperait pas puisque son WiFi, lui,
+fonctionnerait. Chaque micrologiciel porte donc en dur l'adresse du manifeste
+qui le concerne.
+
 ## Le manifeste
 
-`marelleo.json` est la seule chose qu'une boîte interroge. Elle le compare à sa
+C'est la seule chose qu'une boîte interroge. Elle le compare à sa
 propre version, et ne télécharge que s'il annonce autre chose.
 
 ```json
