@@ -1,7 +1,7 @@
 {
-  "version": "0.6.4",
+  "version": "0.7.0",
   "url": "https://marelleo.zebra.rodeo/firmware.bin",
-  "taille": 2665888,
-  "md5": "217fc7560d98e61e0115a97fb6db000d",
-  "notes": "une figurine peut redevenir vide"
+  "taille": 2373408,
+  "md5": "1f0d062cdfa9f1ee8123eb9d6da50309",
+  "notes": "le portail de configuration remplace le bluetooth"
 }
