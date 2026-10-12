@@ -1,7 +1,8 @@
 {
   "version": "0.7.0",
+  "materiel": "carte imprimee",
   "url": "https://marelleo.zebra.rodeo/firmware.bin",
-  "taille": 2373408,
-  "md5": "1f0d062cdfa9f1ee8123eb9d6da50309",
+  "taille": 2392832,
+  "md5": "e83956265b878fc6a244fecafd3cde18",
   "notes": "le portail de configuration remplace le bluetooth"
 }
