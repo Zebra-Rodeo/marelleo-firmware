@@ -1,8 +1,8 @@
 {
-  "version": "0.7.1",
+  "version": "0.7.2",
   "materiel": "prototype",
   "url": "https://marelleo.zebra.rodeo/firmware-proto.bin",
   "taille": 2373408,
-  "md5": "db733f0c6ed1005a046c345a7b212fb7",
-  "notes": "le portail, et une boite configuree qui retrouve son reseau"
+  "md5": "a893834507dd398f85f24ed1b65c5571",
+  "notes": "nouvelle adresse de mise a jour : maj.marelleo.org"
 }
