@@ -1,7 +1,7 @@
 {
   "version": "0.7.2",
   "materiel": "prototype",
-  "url": "https://marelleo.zebra.rodeo/firmware-proto.bin",
+  "url": "https://maj.marelleo.org/firmware-proto.bin",
   "taille": 2373408,
   "md5": "a893834507dd398f85f24ed1b65c5571",
   "notes": "nouvelle adresse de mise a jour : maj.marelleo.org"
