@@ -1,8 +1,8 @@
 {
-  "version": "0.7.2",
+  "version": "0.7.3",
   "materiel": "carte imprimee",
   "url": "https://maj.marelleo.org/firmware.bin",
-  "taille": 2392816,
-  "md5": "14394439b4d03c19457a625d38a66a08",
-  "notes": "nouvelle adresse de mise a jour : maj.marelleo.org"
+  "taille": 2393248,
+  "md5": "ba0c38162828e4a537f83610253469cf",
+  "notes": "le portail se rouvre si le reseau disparait"
 }

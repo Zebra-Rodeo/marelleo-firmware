@@ -1,8 +1,8 @@
 {
-  "version": "0.7.2",
+  "version": "0.7.3",
   "materiel": "prototype",
   "url": "https://maj.marelleo.org/firmware-proto.bin",
-  "taille": 2373408,
-  "md5": "a893834507dd398f85f24ed1b65c5571",
-  "notes": "nouvelle adresse de mise a jour : maj.marelleo.org"
+  "taille": 2373840,
+  "md5": "873133f66186d9047c6a5d5b670a5602",
+  "notes": "le portail se rouvre si le reseau disparait"
 }
