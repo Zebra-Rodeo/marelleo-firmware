@@ -1,8 +1,8 @@
 {
-  "version": "0.7.5",
+  "version": "0.7.6",
   "materiel": "carte imprimee",
   "url": "https://maj.marelleo.org/firmware.bin",
-  "taille": 2399904,
-  "md5": "e4452633b8ea1dc0c0eedc89e618a5fa",
-  "notes": "carillon, jauge de batterie, lecture dans le desordre, veille en charge"
+  "taille": 2400064,
+  "md5": "0e2281d5ca08d23ab6ea425495bf8618",
+  "notes": "la jauge ne remonte plus sur batterie"
 }

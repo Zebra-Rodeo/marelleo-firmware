@@ -1,8 +1,8 @@
 {
-  "version": "0.7.5",
+  "version": "0.7.6",
   "materiel": "prototype",
   "url": "https://maj.marelleo.org/firmware-proto.bin",
-  "taille": 2380240,
-  "md5": "2a6c7eb7ff68a96d5e022530fc5ac5d6",
-  "notes": "carillon, jauge de batterie, lecture dans le desordre, veille en charge"
+  "taille": 2380400,
+  "md5": "df9b8802aee2b0d52c7d431d71fc0a8e",
+  "notes": "la jauge ne remonte plus sur batterie"
 }
