@@ -1,8 +1,8 @@
 {
-  "version": "0.7.3",
+  "version": "0.7.5",
   "materiel": "prototype",
   "url": "https://maj.marelleo.org/firmware-proto.bin",
-  "taille": 2373840,
-  "md5": "873133f66186d9047c6a5d5b670a5602",
-  "notes": "le portail se rouvre si le reseau disparait"
+  "taille": 2380240,
+  "md5": "2a6c7eb7ff68a96d5e022530fc5ac5d6",
+  "notes": "carillon, jauge de batterie, lecture dans le desordre, veille en charge"
 }

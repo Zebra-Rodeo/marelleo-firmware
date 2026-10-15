@@ -1,8 +1,8 @@
 {
-  "version": "0.7.3",
+  "version": "0.7.5",
   "materiel": "carte imprimee",
   "url": "https://maj.marelleo.org/firmware.bin",
-  "taille": 2393248,
-  "md5": "ba0c38162828e4a537f83610253469cf",
-  "notes": "le portail se rouvre si le reseau disparait"
+  "taille": 2399904,
+  "md5": "e4452633b8ea1dc0c0eedc89e618a5fa",
+  "notes": "carillon, jauge de batterie, lecture dans le desordre, veille en charge"
 }
