@@ -1,8 +1,8 @@
 {
-  "version": "0.7.7",
+  "version": "0.7.8",
   "materiel": "carte imprimee",
   "url": "https://maj.marelleo.org/firmware.bin",
-  "taille": 2401920,
-  "md5": "2524ce56c91972ad1fb180c1445c547d",
-  "notes": "jauge en blocs, carillon, desordre, veille en charge"
+  "taille": 2422848,
+  "md5": "66d34ce3a7f81f6a28a1535f0018eef8",
+  "notes": "page refaite, carillon d'extinction"
 }

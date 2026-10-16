@@ -1,8 +1,8 @@
 {
-  "version": "0.7.7",
+  "version": "0.7.8",
   "materiel": "prototype",
   "url": "https://maj.marelleo.org/firmware-proto.bin",
-  "taille": 2382256,
-  "md5": "55e0cbf0cd1f8759e894d8f5d26a6407",
-  "notes": "jauge en blocs, carillon, desordre, veille en charge"
+  "taille": 2403008,
+  "md5": "afb3d5dc0fbd245839ea19aa590272ba",
+  "notes": "page refaite, carillon d'extinction"
 }
