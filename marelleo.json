@@ -1,8 +1,8 @@
 {
-  "version": "0.7.8",
+  "version": "0.7.9",
   "materiel": "carte imprimee",
   "url": "https://maj.marelleo.org/firmware.bin",
-  "taille": 2422848,
-  "md5": "66d34ce3a7f81f6a28a1535f0018eef8",
-  "notes": "page refaite, carillon d'extinction"
+  "taille": 2427552,
+  "md5": "90c3e69c41c0091c4f50387e79a2c206",
+  "notes": "flux : plus de blocage, signal de chargement"
 }

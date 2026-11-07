@@ -1,8 +1,8 @@
 {
-  "version": "0.7.8",
+  "version": "0.7.9",
   "materiel": "prototype",
   "url": "https://maj.marelleo.org/firmware-proto.bin",
-  "taille": 2403008,
-  "md5": "afb3d5dc0fbd245839ea19aa590272ba",
-  "notes": "page refaite, carillon d'extinction"
+  "taille": 2407712,
+  "md5": "4fd80cd7ed56d81f2ab59e01e0f93206",
+  "notes": "flux : plus de blocage, signal de chargement"
 }
