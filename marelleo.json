@@ -1,8 +1,8 @@
 {
-  "version": "0.7.9",
+  "version": "0.8.0",
   "materiel": "carte imprimee",
   "url": "https://maj.marelleo.org/firmware.bin",
-  "taille": 2427552,
-  "md5": "90c3e69c41c0091c4f50387e79a2c206",
-  "notes": "flux : plus de blocage, signal de chargement"
+  "taille": 2428752,
+  "md5": "722c89399f1e7dda485fdc2698e9712a",
+  "notes": "appel de la boite oubliee, molette en butee corrigee"
 }

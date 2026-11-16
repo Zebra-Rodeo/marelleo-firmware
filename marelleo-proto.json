@@ -1,8 +1,8 @@
 {
-  "version": "0.7.9",
+  "version": "0.8.0",
   "materiel": "prototype",
   "url": "https://maj.marelleo.org/firmware-proto.bin",
-  "taille": 2407712,
-  "md5": "4fd80cd7ed56d81f2ab59e01e0f93206",
-  "notes": "flux : plus de blocage, signal de chargement"
+  "taille": 2408960,
+  "md5": "edb3a0b19a898c311f337f58747f15a4",
+  "notes": "appel de la boite oubliee, molette en butee corrigee"
 }
