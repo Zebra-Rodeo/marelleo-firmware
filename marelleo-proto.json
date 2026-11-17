@@ -1,8 +1,8 @@
 {
-  "version": "0.8.0",
+  "version": "0.8.1",
   "materiel": "prototype",
   "url": "https://maj.marelleo.org/firmware-proto.bin",
-  "taille": 2408960,
-  "md5": "edb3a0b19a898c311f337f58747f15a4",
-  "notes": "appel de la boite oubliee, molette en butee corrigee"
+  "taille": 2409296,
+  "md5": "962170a02931a476a8c684721e77ef69",
+  "notes": "flux muet repris, adresse qui finit ne reboucle plus"
 }
